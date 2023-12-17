@@ -1,0 +1,35 @@
+<html>
+    <head>
+
+    <title>Roblox</title>
+    </head>
+    <body>
+    <p style="text-align:center"><img src="https://wallpapers.com/images/hd/roblox-iphone-2qsslfrpp0ysckdo.jpg"width="400px"height="350px" style="alignment:center"></p>
+    <p>
+        <a href="#About" style="color:black">About</a>
+        <a href="#Games" style="color:black">Games</a>
+        <a href="#Contact" style="color:black">Contact</a>
+    </p>
+    <h1 style="text-align:center">Roblox</h1>
+    <h2 style="text-align:center">The world where you'll find yourself</h2>
+    <h3 id="About">About</h3>
+    <p>Roblox (pronunciation: [ˈroʊblɒks]) is an online gaming platform and game creation system that allows any user to create their own [⇨] and play games created by others[⇨], covering a wide range of genres[6]. In some sources, Roblox is called a metaverse[7][8]. As of August 2020, Roblox has more than 164 million monthly active users[9]; as of October 2021, more than 226 million[10]. All of them, in total, played more than 107 billion hours in it[11]. Moreover, more than half of all US children under the age of 16 play Roblox[12][13]. The growth of its popularity began in the second half of 2010[14], and accelerated sharply due to the COVID-19 pandemic[15]. The site of the gaming platform is the second most popular among teenagers, right after Google sites, including YouTube[6]. At the beginning of 2023, Roblox broke the world record for online, gaining 9.3 million active users[16].</p>
+    <p><img src="https://polinka.top/uploads/posts/2023-05/1684152470_polinka-top-p-kartinka-robloks-znachok-instagram-69.jpg"width="300px";height="300px"></p>
+        <h3 id="Games">Games</h3>
+    <table border="1px">
+        <tr style="background-color:lightgreen">
+            <td>Games</td><td>Description</td>
+        </tr>
+        <tr>
+            <td>Tower of Hell</td><td>Parkour</td>
+        </tr>
+        <tr>
+            <td>Biuld a boat for treasure</td><td>Biulding</td>
+        </tr>
+    </table>
+        <h3 id="Contact">Contact</h3>
+        <p>There is nothing because i dont want to do this.</p>
+    </body>
+    <footer>
+    </footer>
+</html>
